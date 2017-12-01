@@ -1,0 +1,3 @@
+com/gpsolutions/attendance/application/Application.class
+com/gpsolutions/attendance/rest/AttendanceRestController.class
+com/gpsolutions/attendance/dto/UserDto.class
